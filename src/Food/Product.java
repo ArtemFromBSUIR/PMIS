@@ -20,7 +20,7 @@ abstract public class Product {
     public String toString() {
         return name + " (руб." + price + ")";
     }
-
+    //важный комментарий
     @Override
     public boolean equals(Object obj) {
         if (this == obj) {
