@@ -57,7 +57,7 @@ public class Cafe {
     }
 
     private static void displayMenu() {
-        System.out.println("Меню:");
+        //System.out.println("Меню:");
         System.out.println("1. Просмотреть меню");
         System.out.println("2. Добавить продукт в заказ");
         System.out.println("3. Удалить продукт из заказа");
